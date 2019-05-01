@@ -51,11 +51,11 @@ public class Product {
         this.subTitle = subTitle;
     }
 
-    public float getoriginalPrice() {
+    public float getOriginalPrice() {
         return originalPrice;
     }
 
-    public void setoriginalPrice(float originalPrice) {
+    public void setOriginalPrice(float originalPrice) {
         this.originalPrice = originalPrice;
     }
 
